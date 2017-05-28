@@ -28,3 +28,5 @@ gen_files () {
 
 gen_files i
 gen_files d
+
+exit $?
